@@ -88,3 +88,5 @@ if (animal === "galo") {
 } else {
   console.log("A banca sempre ganha");
 }
+
+
